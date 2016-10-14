@@ -16,8 +16,10 @@ plan your time accordingly.
 
 - Read http://eloquentjavascript.net/
   - Chapters 1 - 5
-  - 13 - 15
-  - complete 15 project
+  - Chapters 13 && 14
+    - [Document Object Model](http://eloquentjavascript.net/13_dom.html)
+    - [Handling Events](http://eloquentjavascript.net/14_event.html)
+  - Complete [Chapter 15 Project](http://eloquentjavascript.net/15_game.html)
 
 ## Part 3: Advanced JavaScript
 

@@ -22,3 +22,13 @@ plan your time accordingly.
 ## Part 3: Advanced JavaScript
 
 - Read https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+## Minimum Program Requirements
+
+- Create a variable and store data to it
+- Access a value in an array and object
+- Create a for loop that iterates through an array
+- Create a conditional statement
+- Write a basic function that takes two parameters
+
+***You will be quizzed on these skills Day 1. Your enrollment in the program may be contingent on these results.***

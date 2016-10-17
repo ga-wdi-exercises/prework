@@ -6,5 +6,6 @@ The quickest way to receive assistance is by posting a message in Slack - https:
 
 - Share what you tried
   - screenshot / code snippet / error messages
+- Identify a range of lines of code that aren't working
 - Share a link
   - Can I clone down your project, or see it in a browser?

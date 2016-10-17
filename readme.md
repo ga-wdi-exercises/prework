@@ -29,6 +29,7 @@ plan your time accordingly.
 
 - Go through https://www.codecademy.com/learn/learn-git
 - Read https://git-scm.com/doc
+- https://try.github.io/levels/1/challenges/1
 
 ## Part 5: Command Line Interface
 

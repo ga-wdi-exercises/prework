@@ -5,7 +5,7 @@
 Congratulations on your acceptance to the WDI program at General Assembly.
 
 This entire exercise should take approximately 40 hours to complete - please
-plan your time accordingly.
+plan your time accordingly. You can not be too prepared, so please spend as much time as you're able hammering down these fundamental skills. 
 
 ## Part 1:  HTML & CSS
 

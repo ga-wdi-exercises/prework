@@ -5,12 +5,12 @@
 Congratulations on your acceptance to the WDI program at General Assembly.
 
 This entire exercise should take approximately 40 hours to complete - please
-plan your time accordingly.
+plan your time accordingly. You can not be too prepared, so please spend as much time as you're able hammering down these fundamental skills.
 
 ## Part 1:  HTML & CSS
 
 - http://learn.shayhowe.com/html-css/
-- learnlayout.com
+- http://learnlayout.com/
 
 ## Part 2: Intro JavaScript
 
@@ -24,3 +24,13 @@ plan your time accordingly.
 ## Part 3: Advanced JavaScript
 
 - Read https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+## Minimum Program Requirements
+
+- Create a variable and store data to it
+- Access a value in an array and object
+- Create a for loop that iterates through an array
+- Create a conditional statement
+- Write a basic function that takes two parameters
+
+***You will be quizzed on these skills Day 1. Your enrollment in the program may be contingent on these results.***

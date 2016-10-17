@@ -24,3 +24,12 @@ plan your time accordingly.
 ## Part 3: Advanced JavaScript
 
 - Read https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+## Part 4: Git & Github
+
+- Go through https://www.codecademy.com/learn/learn-git
+- Read https://git-scm.com/doc
+
+## Part 5: Command Line Interface
+
+- Complete http://generalassembly.github.io/prework/cl/#/
